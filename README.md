@@ -6,7 +6,9 @@ open source secure local ai 4 [homelab](https://github.com/drewroberts/homelab) 
 
 ### 🦀 overview
 
-welcome to [W3RDclaw](https://github.com/roberts/W3RDclaw). this project is designed to provide a secure, local-first ai solution for your personal infrastructure.
+welcome to [W3RDclaw](https://github.com/roberts/W3RDclaw). this project is designed to provide a secure, local-first ai solution for your personal infrastructure. focused on long term asynchronous tasks from remote connections via ssh or thru blockchain call data.
+
+[andyclaw](https://github.com/drewroberts/andyclaw) will handle remote handlheld devices.
 
 ### 🦀 features
 
